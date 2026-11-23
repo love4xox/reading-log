@@ -1,12 +1,17 @@
 {
-    "name": "서재의 한 줄 - 책·웹툰 기록장",
+    "name": "READING IN CHECK - 서재의 한 줄",
     "short_name": "서재의 한 줄",
-    "description": "책과 웹툰 감상을 기록하고 AI 월말 독서 리포트를 받아보는 개인 서재",
+    "description": "책과 웹툰 감상을 기록하고 AI 월말 독서 리포트를 받아보는 개인 아카이브",
     "start_url": "/",
     "display": "standalone",
-    "background_color": "#fffef8",
-    "theme_color": "#fffef8",
+    "background_color": "#F2F1ED",
+    "theme_color": "#0E7C5B",
     "icons": [
+      {
+        "src": "/icon.svg",
+        "sizes": "any",
+        "type": "image/svg+xml"
+      },
       {
         "src": "/favicon.ico",
         "sizes": "64x64 32x32 24x24 16x16",
